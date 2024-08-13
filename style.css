@@ -8,7 +8,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* Common css style Start*/
+
 .container{
     max-width: 1240px;
     margin: 0% auto;
@@ -22,7 +22,7 @@ body{
 }
 
 
-/* Common css style End*/
+
 
 
 .navbar{
@@ -144,7 +144,7 @@ button{
 
 }
 
-/* Track Section */
+
 .track-section{
     position: relative;
 
@@ -212,7 +212,7 @@ button{
     }
 }
 
-/* company */
+
 .company{
     display: flex;
     align-items: center;
@@ -226,7 +226,7 @@ button{
 }
 
 
-/* join section */
+
 .join{
     width: 90%;
     margin: 120px auto;
@@ -282,7 +282,8 @@ button{
 }
 
 
-/* responsive for mobile */
+
+
 @media  (max-device-width: 767px) {
     .container{
         padding: 0 16px;
